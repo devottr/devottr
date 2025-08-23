@@ -1,5 +1,5 @@
 >[!IMPORTANT]
->👋 Hi, I’m [Daniel]</br>
+>👋 Hi, I’m [Daniel](https://pages.github.com/).</br>
 >👀 I’m interested in ... AI 
 
 >[!NOTE]
