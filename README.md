@@ -2,7 +2,7 @@
 >👋 Hi, I’m [Daniel]</br>
 >👀 I’m interested in ... AI 
 
->[!NOTE]github.handgun683@passinbox.com
+>[!NOTE]
 >🌱 I’m currently learning ...(MLOps) (FMOps) (LLMOps)</br>
 💞️ I’m looking to collaborate on ... Any Project</br>
 📫 How to reach me ... github.handgun683@passinbox.com
